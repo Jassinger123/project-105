@@ -1,0 +1,18 @@
+body{
+    background:#d47dbe;
+}
+
+h1{
+    color:black;
+}
+
+.bold{
+    font-size: 30px;
+    color: green;
+}
+
+#camera{
+    border: 2px black solid;
+    width: 350px;
+    height:300px;
+}
